@@ -1,0 +1,4 @@
+numpy
+theano
+lasagne
+scikit-learn
